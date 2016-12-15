@@ -362,6 +362,8 @@ cd /home
 ./record_event &
 ./mp4record 60 &
 
+### Launch Motion Check
+/home/hd1/test/check_motion.sh &
 
 ### Some configuration
 
